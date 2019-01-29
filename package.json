@@ -1,0 +1,18 @@
+{
+  "name": "mycontacts",
+  "version": "1.0.0",
+  "description": "Best place to keep my Contacts.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hassan Ansari",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.6",
+    "morgan": "^1.9.1"
+  }
+}
